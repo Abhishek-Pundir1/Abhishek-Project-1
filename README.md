@@ -1,7 +1,6 @@
 # Abhishek-Project-1
-This is a Power BI Dashboard Project
-OBJECTIVE 
-Owner of Lakshay Store wants us to help them create a Dashboard to track and analyze their online Sales across India.
+OBJECTIVE-
+Owner of Lakshay Store wants us to help them create a Dashboard to track and analyze their online Sales across India and This is a Power BI Dashboard Project.
 
 Project- key points
 
